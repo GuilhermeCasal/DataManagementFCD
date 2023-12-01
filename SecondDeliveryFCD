@@ -1,0 +1,16 @@
+For second delivery FCD
+
+-> Summary statistic
+-> Simple distribution plots
+-> Transformations
+-> Correlations / Covariances
+-> Multiple Relations
+-> PCA / Dimension Reduction
+-> Clustering
+
+GROUP BY
+
+Visualization librabrys:
+-> seaborn
+-> bokeh
+
